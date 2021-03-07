@@ -1,1 +1,2 @@
 # SRP-simulation
+This work was done in Real Time OS course. This simulator simulates [Stack Resource Policy Allocation](https://en.wikipedia.org/wiki/Stack_Resource_Policy) with [Earliest Deadline First scheduling](https://en.wikipedia.org/wiki/Earliest_deadline_first_scheduling).
